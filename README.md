@@ -1,4 +1,4 @@
-Hi, @nkoexe here
+Hey, I'm @nkoexe
 
 I'm a student, currently spending afternoons learning Python and C++ basics
 
