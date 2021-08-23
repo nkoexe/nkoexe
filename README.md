@@ -1,5 +1,4 @@
 # Nico.
 
-Student, Developer.  
+Student, Generic GitHub User, Developer.  
 Not really, but learning.  
-
