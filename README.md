@@ -1,10 +1,10 @@
 ![](src/title.png)
 
-Generic GitHub User
+### Generic GitHub User
 
 ---
 
-![](src/instagram.png) [@nkoexe](https://www.instagram.com/nkoexe)
+<a href="https://www.instagram.com/nkoexe" style="color:#f05082"><img src="src/instagram.png">@nkoexe</a>
 
 ![](src/discord.png) [neeco#7533](https://discord.com/users/619926918262685737)
 
