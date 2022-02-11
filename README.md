@@ -7,8 +7,8 @@
 ---
 
 <div align="center">
-  <a href="/"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"></a>
-  <a><img src="https://img.shields.io/badge/JavaScript-323232?style=for-the-badge&logo=javascript&logoColor=FFD43B"></a>
+  <a href="https://github.com/nkoexe"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"></a>
+  <a  href="https://github.com/nkoexe"><img src="https://img.shields.io/badge/JavaScript-323232?style=for-the-badge&logo=javascript&logoColor=FFD43B"></a>
   <a><img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"></a>
   <a><img src="https://img.shields.io/badge/vscode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
 </div>
