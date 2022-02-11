@@ -1,6 +1,6 @@
 ![](src/title.png)
 
-Generic GitHub User.
+Generic GitHub User
 
 ### Contact me
 
