@@ -1,4 +1,6 @@
-![](src/title.png)
+<div>
+  <img src="src/title.png" alt="Nico." width="100%">
+</div><br />
 
 ### Generic GitHub User
 
