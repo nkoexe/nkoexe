@@ -7,16 +7,18 @@
 ---
 
 <div align="center">
-  <a href="/"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black"></a>
-  <a><img src="https://img.shields.io/badge/JavaScript-323232?style=for-the-badge&logo=javascript&logoColor=FFD43B"></a>
-  <a><img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white"></a>
-  <a><img src="https://img.shields.io/badge/vscode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=black">
+  <img src="https://img.shields.io/badge/JavaScript-323232?style=for-the-badge&logo=javascript&logoColor=FFD43B">
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white">
+  <img src="https://img.shields.io/badge/vscode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
 </div>
 
+---
+
 <div align="center">
-  <a><img src="https://img.shields.io/badge/Windows-323232?style=for-the-badge&logo=windows&logoColor=white"></a>
-  <a><img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white"></a>
-  <a><img src="https://img.shields.io/badge/AMD%20Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Windows-323232?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">
+  <img src="https://img.shields.io/badge/AMD%20Ryzen_5_5600X-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
   <img src="https://img.shields.io/badge/NVIDIA-GT1030-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
 </div>
 
