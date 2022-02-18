@@ -1,8 +1,11 @@
+<!--
 <div>
   <img src="src/title.png" alt="Nico." width="100%">
 </div><br />
+-->
+# Nico.
 
-### Generic GitHub User
+Generic GitHub User
 
 ---
 
